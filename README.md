@@ -16,7 +16,7 @@
 ###
 
 <p align="left">
-I'm <strong><em>Ziad Shoeib</em></strong>, a <strong>Robotics & Control Researcher</strong> from Egypt, currently based in Saudi Arabia 📍.<br><br>
+<strong><em>I'm Ziad Shoeib</em></strong>, a <strong>Robotics & Control Researcher</strong> from Egypt, currently based in Saudi Arabia 📍.
 </p>
 
 - 🎓 I hold an M.Sc. in Systems and Control Engineering from KFUPM, with a background in Mechatronics Engineering.<br><br>
@@ -62,7 +62,7 @@ I'm <strong><em>Ziad Shoeib</em></strong>, a <strong>Robotics & Control Research
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/ros-infrastructure/artwork/master/ros_logo.svg" height="34" alt="ROS" style="filter: brightness(0) invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" height="34" alt="ROS" style="filter: brightness(0) invert(1);"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" height="40" alt="Gazebo" />
   <img width="12" />
