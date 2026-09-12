@@ -16,7 +16,7 @@
 ###
 
 <p align="left">
-<strong><em>I'm Ziad Shoeib</em></strong>, a <strong>Robotics & Control Researcher</strong> from Egypt, currently based in Saudi Arabia 📍.
+<strong><em>I'm Ziad Shoeib</em></strong>, a <strong>Robotics & Control Researcher</strong> from Egypt, currently based in Saudi Arabia 📍
 </p>
 
 ###
@@ -37,8 +37,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <img width="12" />
-  <a href="https://scholar.google.com/citations?user=BJjlDwQAAAAJ" target="_blank">
-    <img src="https://img.icons8.com/color/48/google-scholar.png" width="52" height="40" alt="Google Scholar" />
+  <a href="https://api.iconify.design/academicons/google-scholar-square.svg?color=%234285F4" target="_blank">
+    <img src="" width="52" height="40" alt="Google Scholar" />
   </a>
   <img width="12" />
   <a href="mailto:ziad.shoeib@outlook.com">
