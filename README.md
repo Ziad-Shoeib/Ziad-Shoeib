@@ -19,6 +19,7 @@
 <strong><em>I'm Ziad Shoeib</em></strong>, a <strong>Robotics & Control Researcher</strong> from Egypt, currently based in Saudi Arabia 📍.
 </p>
 
+###
 - 🎓 I hold an M.Sc. in Systems and Control Engineering from KFUPM, with a background in Mechatronics Engineering.<br><br>
 
 - 🚁 My research focuses on safe reinforcement learning, geometric modeling and control, and autonomous robotic systems, with a current focus on aerial robotics.<br><br>
