@@ -25,7 +25,7 @@
 
 - 🛠 I enjoy taking robotics from simulation to hardware, working with ROS 2, PX4, Gazebo, PyBullet, NVIDIA Jetson, and Pixhawk-based UAV platforms.<br><br>
 
-- 🏁 Outside research, I enjoy drones and robotics 🤖, taking part in engineering competitions, and reading fiction and history 📚.
+- 🏁 Outside research, I enjoy drones and robotics 🤖, taking part in engineering competitions, nature photography 📷🏞️, and reading fiction and history 📚.
 
 </p>
 
@@ -37,7 +37,7 @@
   </a>
   <img width="12" />
   <a href="https://scholar.google.com/citations?user=BJjlDwQAAAAJ" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="52" height="40" alt="Google Scholar" />
+    <img src="https://img.icons8.com/color/48/google-scholar.png" width="52" height="40" alt="Google Scholar" />
   </a>
   <img width="12" />
   <a href="mailto:ziad.shoeib@outlook.com">
