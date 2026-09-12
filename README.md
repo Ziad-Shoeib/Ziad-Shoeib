@@ -26,7 +26,7 @@
 
 - 🛠 I enjoy taking robotics from simulation to hardware, working with ROS 2, PX4, Gazebo, PyBullet, NVIDIA Jetson, and Pixhawk-based UAV platforms.<br><br>
 
-- 🏁 Outside research, I enjoy drones and robotics 🤖, taking part in engineering competitions, nature photography 📷🏞️, and reading fiction and history 📚.
+- 🏁 Outside research, I enjoy drones and robotics 🤖, taking part in engineering competitions, nature photography 📷 🏞️, and reading fiction and history 📚.
 
 </p>
 
