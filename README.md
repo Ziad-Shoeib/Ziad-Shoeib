@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <img width="12" />
-  <a href="https://api.iconify.design/academicons/google-scholar.svg?color=%234285F4" target="_blank">
+  <a href="https://cdn.simpleicons.org/googlescholar/4285F4" target="_blank">
     <img src="" width="52" height="40" alt="Google Scholar" />
   </a>
   <img width="12" />
